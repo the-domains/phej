@@ -1,3 +1,4 @@
+layout_spectrum: 0.7555388759355992
 typography_spectrum: 0.1499002838972956
 color:
   brandStrength: 0.6720115628559142
@@ -10,6 +11,4 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-layout_spectrum: 0.7555388759355992
 name: phej
-title: A Headache With Pictures
